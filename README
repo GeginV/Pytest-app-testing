@@ -1,0 +1,2 @@
+Description: This is a set of simple tests that can be found in 'tests' folder. The app that is being tested is a very simple calculator that you can find in the other folder.
+Requirements: Python 3 + pytest package
